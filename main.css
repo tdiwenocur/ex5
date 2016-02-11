@@ -1,0 +1,62 @@
+body{
+    background-color: white;
+    font-family: 'Alegreya', serif;
+    color: #A894C7;
+    
+}
+
+
+form{
+    position: absolute;
+    top: 530px;
+    left: 840px;
+    width: 400px;
+    
+    
+}
+input{
+    font-family: 'Alegreya', serif;
+    font-size: 15pt;
+}
+
+
+section#headthing{
+    position: absolute;
+    top: 150px;
+    left: 810px;
+}
+h3{
+    font-size: 3.5em;
+    margin-left: 60px;
+    color: #F9B49F;
+}
+h1{
+    font-size:15em;
+    position: relative;
+    left: -10px;
+    bottom: 270px;
+}
+h2{
+    font-size: 2em;
+    line-height: 17px;
+    color: #95D1B1;
+    position: relative;
+    left: 200px;
+    bottom: 680px;
+}
+section#popup{
+    position: absolute;
+    top: 470px;
+    left: 850px;
+    
+}
+section#popup p{
+    font-size: 14pt;
+    color: #A7A9AB;
+}
+
+#the-basics .typeahead{
+    border-style: solid;
+    border-color: #A894C7;
+    
+}
