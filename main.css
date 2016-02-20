@@ -60,3 +60,8 @@ section#popup p{
     border-color: #A894C7;
     
 }
+section#validation {
+	position: absolute;
+	left: 35%;
+	top: 80%;
+}
